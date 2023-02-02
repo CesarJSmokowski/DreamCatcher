@@ -1,0 +1,3 @@
+DreammCatcher is an android app written in Kotlin. The app consists of the Dream List View and
+the Dream Detail View. A SQLite database is created using the Room library to store the user's entries.
+The app can be run by opening the DreamCatcher folder in Android Studio, using File -> Open.
